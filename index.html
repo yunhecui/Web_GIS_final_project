@@ -15,24 +15,27 @@
 
   <body>
     <!-- creating the navigation bar and in-page hyperlink  -->
-    <div class="headerBg">
+    <div id="headerBg">
       <div class="nyuLogo">
         <img src="images/nyu_logo.jpg" alt="NYU logo" width=48px height=48px>
       </div>
-      <div class='headerItem'><a href="#intro">INTRO</a></div>
-      <div class='headerItem'><a href="#map">MAP</a></div>
-      <div class='headerItem'><a href="#plot">PLOT</a></div>
+      <div class="headerItem"><a href="#intro">INTRO</a></div>
+      <div class="headerItem"><a href="#map">MAP</a></div>
+      <div class="headerItem"><a href="#plot">PLOT</a></div>
     </div>
 
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
     <!-- Introduction block of this map -->
     <div class="introBg">
       <a name="intro"></a>
-      <div class="intro">Intro to the Map</div>
+      <div class="introContainer">Intro to the Map</div>
       <div class="mapDescription">This is description for immigrant maps</div>
+
     </div>
 
     <!-- Map container, map legend and miscellaneous -->
     <div class="mapBg">
+      <a name="map"></a>
       <div class="mapContainer"></div>
       <div class="legendContainer">
         <div class="mapTitle">Title</div>
@@ -42,11 +45,10 @@
         <div class="legend"></div>
       </div>
     </div>
-    <a name="map"></a>
+
     <div class="plotBg">
-      <div class="plotContainer">
-
-
+      <a name="plot"></a>
+      <div class="mapContainer"></div>
     </div>
 
 
