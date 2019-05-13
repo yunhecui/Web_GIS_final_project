@@ -22,21 +22,44 @@ var map = new mapboxgl.Map({
 container: 'mapContainer',
 style: 'mapbox://styles/mapbox/light-v10',
 center: [150, 35],
-zoom: 0.55,
+zoom: 0.54,
 });
+
+// disable map zoom using scroll
+map.scrollZoom.disable();
+
 // Add zoom and rotation controls to the map.
 map.addControl(new mapboxgl.NavigationControl());
 
-Captial.forEach(function(cap) {
-
-
-  new mapboxgl.Marker({
-    color: 'purple',
+Captial.forEach(function(capital) {
+  map.on('load', function(){
+    map.addLayer({
+      id: `capitals-${capital.city}`,
+      type: 'circle',
+      source:{
+        type: 'geojson',
+        data:{
+          type: 'Feature',
+          geometry:{
+            type: 'Point',
+            coordinates: [capital.long, capital.lat],
+          },
+          properties:{
+            country: capital.country,
+            city: capital.city,
+            pop: capital.pop_in_k,
+          }
+        }
+      },
+      paint: {
+        'circle-color':'red',
+        'circle-radius':{
+          'base': 6,
+          'stops':[[0,4], [22,1000]]
+        },
+        }
+    })
   })
-    .setLngLat([cap.long, cap.lat])
-    .setPopup(new mapboxgl.Popup({ offset: 5 })
-    .setText(`${cap.country}, ${cap.city}`))
-    .addTo(map);
 })
 
 

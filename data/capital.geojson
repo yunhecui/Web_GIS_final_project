@@ -1,0 +1,3125 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.17,34.53 ]
+    },
+    "properties": {
+    "country":"Afghanistan",
+    "city":"Kabul",
+    "pop_in_k":"4 436",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.82,41.33 ]
+    },
+    "properties": {
+    "country":"Albania",
+    "city":"Tiranë (Tirana)",
+    "pop_in_k":"445",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.04,36.75 ]
+    },
+    "properties": {
+    "country":"Algeria",
+    "city":"El Djazaïr  (Algiers)",
+    "pop_in_k":"2 559",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -170.7,-14.28 ]
+    },
+    "properties": {
+    "country":"American Samoa",
+    "city":"Pago Pago",
+    "pop_in_k":"48",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.52,42.51 ]
+    },
+    "properties": {
+    "country":"Andorra",
+    "city":"Andorra la Vella",
+    "pop_in_k":"23",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.23,-8.84 ]
+    },
+    "properties": {
+    "country":"Angola",
+    "city":"Luanda",
+    "pop_in_k":"5 288",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.06,18.22 ]
+    },
+    "properties": {
+    "country":"Anguilla",
+    "city":"The Valley",
+    "pop_in_k":"1",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.85,17.12 ]
+    },
+    "properties": {
+    "country":"Antigua and Barbuda",
+    "city":"St. John's",
+    "pop_in_k":"22",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.4,-34.61 ]
+    },
+    "properties": {
+    "country":"Argentina",
+    "city":"Buenos Aires",
+    "pop_in_k":"15 024",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.51,40.18 ]
+    },
+    "properties": {
+    "country":"Armenia",
+    "city":"Yerevan",
+    "pop_in_k":"1 049",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.03,12.52 ]
+    },
+    "properties": {
+    "country":"Aruba",
+    "city":"Oranjestad",
+    "pop_in_k":"29",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.13,-35.28 ]
+    },
+    "properties": {
+    "country":"Australia",
+    "city":"Canberra",
+    "pop_in_k":"415",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.37,48.21 ]
+    },
+    "properties": {
+    "country":"Austria",
+    "city":"Wien (Vienna)",
+    "pop_in_k":"1 743",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.89,40.38 ]
+    },
+    "properties": {
+    "country":"Azerbaijan",
+    "city":"Baku",
+    "pop_in_k":"2 317",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.34,25.06 ]
+    },
+    "properties": {
+    "country":"Bahamas",
+    "city":"Nassau",
+    "pop_in_k":"267",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.58,26.22 ]
+    },
+    "properties": {
+    "country":"Bahrain",
+    "city":"Al-Manamah (Manama)",
+    "pop_in_k":"398",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.41,23.71 ]
+    },
+    "properties": {
+    "country":"Bangladesh",
+    "city":"Dhaka",
+    "pop_in_k":"16 982",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.62,13.1 ]
+    },
+    "properties": {
+    "country":"Barbados",
+    "city":"Bridgetown",
+    "pop_in_k":"90",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.57,53.9 ]
+    },
+    "properties": {
+    "country":"Belarus",
+    "city":"Minsk",
+    "pop_in_k":"1 905",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.35,50.85 ]
+    },
+    "properties": {
+    "country":"Belgium",
+    "city":"Bruxelles-Brussel",
+    "pop_in_k":"2 029",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.77,17.25 ]
+    },
+    "properties": {
+    "country":"Belize",
+    "city":"Belmopan",
+    "pop_in_k":"17",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.42,6.37 ]
+    },
+    "properties": {
+    "country":"Benin",
+    "city":"Cotonou",
+    "pop_in_k":"680",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6,6.5 ]
+    },
+    "properties": {
+    "country":"Benin",
+    "city":"Porto-Novo",
+    "pop_in_k":"268",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.78,32.29 ]
+    },
+    "properties": {
+    "country":"Bermuda",
+    "city":"Hamilton",
+    "pop_in_k":"10",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.64,27.47 ]
+    },
+    "properties": {
+    "country":"Bhutan",
+    "city":"Thimphu",
+    "pop_in_k":"152",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.15,-16.5 ]
+    },
+    "properties": {
+    "country":"Bolivia (Plurinational State of)",
+    "city":"La Paz",
+    "pop_in_k":"1 800",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.26,-19.03 ]
+    },
+    "properties": {
+    "country":"Bolivia (Plurinational State of)",
+    "city":"Sucre",
+    "pop_in_k":"358",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.36,43.85 ]
+    },
+    "properties": {
+    "country":"Bosnia and Herzegovina",
+    "city":"Sarajevo",
+    "pop_in_k":"322",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.91,-24.65 ]
+    },
+    "properties": {
+    "country":"Botswana",
+    "city":"Gaborone",
+    "pop_in_k":"247",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -47.93,-15.78 ]
+    },
+    "properties": {
+    "country":"Brazil",
+    "city":"Brasília",
+    "pop_in_k":"4 074",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.62,18.42 ]
+    },
+    "properties": {
+    "country":"British Virgin Islands",
+    "city":"Road Town",
+    "pop_in_k":"13",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.95,4.94 ]
+    },
+    "properties": {
+    "country":"Brunei Darussalam",
+    "city":"Bandar Seri Begawan",
+    "pop_in_k":"14",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.32,42.7 ]
+    },
+    "properties": {
+    "country":"Bulgaria",
+    "city":"Sofia",
+    "pop_in_k":"1 222",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.54,12.36 ]
+    },
+    "properties": {
+    "country":"Burkina Faso",
+    "city":"Ouagadougou",
+    "pop_in_k":"2 565",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.36,-3.38 ]
+    },
+    "properties": {
+    "country":"Burundi",
+    "city":"Bujumbura",
+    "pop_in_k":"707",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -23.51,14.92 ]
+    },
+    "properties": {
+    "country":"Cabo Verde",
+    "city":"Praia",
+    "pop_in_k":"145",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.92,11.56 ]
+    },
+    "properties": {
+    "country":"Cambodia",
+    "city":"Phnum Pénh (Phnom Penh)",
+    "pop_in_k":"1 684",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.52,3.87 ]
+    },
+    "properties": {
+    "country":"Cameroon",
+    "city":"Yaoundé",
+    "pop_in_k":"2 930",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7,45.42 ]
+    },
+    "properties": {
+    "country":"Canada",
+    "city":"Ottawa-Gatineau",
+    "pop_in_k":"1 306",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.27,12.15 ]
+    },
+    "properties": {
+    "country":"Caribbean Netherlands",
+    "city":"Kralendijk",
+    "pop_in_k":"15",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.37,19.29 ]
+    },
+    "properties": {
+    "country":"Cayman Islands",
+    "city":"George Town",
+    "pop_in_k":"31",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.55,4.36 ]
+    },
+    "properties": {
+    "country":"Central African Republic",
+    "city":"Bangui",
+    "pop_in_k":"781",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.04,12.11 ]
+    },
+    "properties": {
+    "country":"Chad",
+    "city":"N'Djaména",
+    "pop_in_k":"1 212",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,49.19 ]
+    },
+    "properties": {
+    "country":"Channel Islands",
+    "city":"St. Helier",
+    "pop_in_k":"35",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.54,49.46 ]
+    },
+    "properties": {
+    "country":"Channel Islands",
+    "city":"St. Peter Port",
+    "pop_in_k":"16",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.65,-33.46 ]
+    },
+    "properties": {
+    "country":"Chile",
+    "city":"Santiago",
+    "pop_in_k":"6 472",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4,39.91 ]
+    },
+    "properties": {
+    "country":"China",
+    "city":"Beijing",
+    "pop_in_k":"19 520",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.19,22.28 ]
+    },
+    "properties": {
+    "country":"China, Hong Kong SAR",
+    "city":"Hong Kong",
+    "pop_in_k":"7 260",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.55,22.2 ]
+    },
+    "properties": {
+    "country":"China, Macao SAR",
+    "city":"Macao",
+    "pop_in_k":"575",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.08,4.61 ]
+    },
+    "properties": {
+    "country":"Colombia",
+    "city":"Bogotá",
+    "pop_in_k":"9 558",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.26,-11.7 ]
+    },
+    "properties": {
+    "country":"Comoros",
+    "city":"Moroni",
+    "pop_in_k":"56",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.28,-4.27 ]
+    },
+    "properties": {
+    "country":"Congo",
+    "city":"Brazzaville",
+    "pop_in_k":"1 827",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.76,-21.23 ]
+    },
+    "properties": {
+    "country":"Cook Islands",
+    "city":"Rarotonga",
+    "pop_in_k":"15",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.08,9.93 ]
+    },
+    "properties": {
+    "country":"Costa Rica",
+    "city":"San José",
+    "pop_in_k":"1 160",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.03,5.35 ]
+    },
+    "properties": {
+    "country":"Côte d'Ivoire",
+    "city":"Abidjan",
+    "pop_in_k":"4 708",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.28,6.82 ]
+    },
+    "properties": {
+    "country":"Côte d'Ivoire",
+    "city":"Yamoussoukro",
+    "pop_in_k":"259",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.98,45.81 ]
+    },
+    "properties": {
+    "country":"Croatia",
+    "city":"Zagreb",
+    "pop_in_k":"687",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.38,23.12 ]
+    },
+    "properties": {
+    "country":"Cuba",
+    "city":"La Habana (Havana)",
+    "pop_in_k":"2 146",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.93,12.11 ]
+    },
+    "properties": {
+    "country":"Curaçao",
+    "city":"Willemstad",
+    "pop_in_k":"145",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.37,35.16 ]
+    },
+    "properties": {
+    "country":"Cyprus",
+    "city":"Lefkosia (Nicosia)",
+    "pop_in_k":"251",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.42,50.09 ]
+    },
+    "properties": {
+    "country":"Czech Republic",
+    "city":"Praha (Prague)",
+    "pop_in_k":"1 303",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.75,39.03 ]
+    },
+    "properties": {
+    "country":"Dem. People's Republic of Korea",
+    "city":"P'yongyang",
+    "pop_in_k":"2 856",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.31,-4.33 ]
+    },
+    "properties": {
+    "country":"Democratic Republic of the Congo",
+    "city":"Kinshasa",
+    "pop_in_k":"11 116",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.57,55.68 ]
+    },
+    "properties": {
+    "country":"Denmark",
+    "city":"København (Copenhagen)",
+    "pop_in_k":"1 255",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.14,11.59 ]
+    },
+    "properties": {
+    "country":"Djibouti",
+    "city":"Djibouti",
+    "pop_in_k":"522",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.39,15.3 ]
+    },
+    "properties": {
+    "country":"Dominica",
+    "city":"Roseau",
+    "pop_in_k":"15",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.9,18.49 ]
+    },
+    "properties": {
+    "country":"Dominican Republic",
+    "city":"Santo Domingo",
+    "pop_in_k":"2 873",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.52,-0.23 ]
+    },
+    "properties": {
+    "country":"Ecuador",
+    "city":"Quito",
+    "pop_in_k":"1 699",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.24,30.04 ]
+    },
+    "properties": {
+    "country":"Egypt",
+    "city":"Al-Qahirah (Cairo)",
+    "pop_in_k":"18 419",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.19,13.69 ]
+    },
+    "properties": {
+    "country":"El Salvador",
+    "city":"San Salvador",
+    "pop_in_k":"1 097",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.78,3.75 ]
+    },
+    "properties": {
+    "country":"Equatorial Guinea",
+    "city":"Malabo",
+    "pop_in_k":"145",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.93,15.33 ]
+    },
+    "properties": {
+    "country":"Eritrea",
+    "city":"Asmara",
+    "pop_in_k":"775",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.75,59.44 ]
+    },
+    "properties": {
+    "country":"Estonia",
+    "city":"Tallinn",
+    "pop_in_k":"392",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.75,9.02 ]
+    },
+    "properties": {
+    "country":"Ethiopia",
+    "city":"Addis Ababa",
+    "pop_in_k":"3 168",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.85,-51.7 ]
+    },
+    "properties": {
+    "country":"Falkland Islands (Malvinas)",
+    "city":"Stanley",
+    "pop_in_k":"2",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.77,62.01 ]
+    },
+    "properties": {
+    "country":"Faroe Islands",
+    "city":"Tórshavn",
+    "pop_in_k":"21",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.44,-18.14 ]
+    },
+    "properties": {
+    "country":"Fiji",
+    "city":"Suva",
+    "pop_in_k":"176",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.94,60.17 ]
+    },
+    "properties": {
+    "country":"Finland",
+    "city":"Helsinki",
+    "pop_in_k":"1 170",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.35,48.85 ]
+    },
+    "properties": {
+    "country":"France",
+    "city":"Paris",
+    "pop_in_k":"10 764",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.33,4.93 ]
+    },
+    "properties": {
+    "country":"French Guiana",
+    "city":"Cayenne",
+    "pop_in_k":"58",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.57,-17.53 ]
+    },
+    "properties": {
+    "country":"French Polynesia",
+    "city":"Papeete",
+    "pop_in_k":"133",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.45,0.39 ]
+    },
+    "properties": {
+    "country":"Gabon",
+    "city":"Libreville",
+    "pop_in_k":"695",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.68,13.45 ]
+    },
+    "properties": {
+    "country":"Gambia",
+    "city":"Banjul",
+    "pop_in_k":"489",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.83,41.69 ]
+    },
+    "properties": {
+    "country":"Georgia",
+    "city":"Tbilisi",
+    "pop_in_k":"1 150",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.41,52.52 ]
+    },
+    "properties": {
+    "country":"Germany",
+    "city":"Berlin",
+    "pop_in_k":"3 547",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2,5.56 ]
+    },
+    "properties": {
+    "country":"Ghana",
+    "city":"Accra",
+    "pop_in_k":"2 242",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35,36.14 ]
+    },
+    "properties": {
+    "country":"Gibraltar",
+    "city":"Gibraltar",
+    "pop_in_k":"29",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.75,37.95 ]
+    },
+    "properties": {
+    "country":"Greece",
+    "city":"Athínai (Athens)",
+    "pop_in_k":"3 060",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.72,64.18 ]
+    },
+    "properties": {
+    "country":"Greenland",
+    "city":"Nuuk (Godthåb)",
+    "pop_in_k":"17",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.75,12.06 ]
+    },
+    "properties": {
+    "country":"Grenada",
+    "city":"St.George's",
+    "pop_in_k":"38",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.73,16 ]
+    },
+    "properties": {
+    "country":"Guadeloupe",
+    "city":"Basse-Terre",
+    "pop_in_k":"55",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.75,13.48 ]
+    },
+    "properties": {
+    "country":"Guam",
+    "city":"Hagåtña",
+    "pop_in_k":"143",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.53,14.61 ]
+    },
+    "properties": {
+    "country":"Guatemala",
+    "city":"Ciudad de Guatemala (Guatemala City)",
+    "pop_in_k":"2 847",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.65,9.57 ]
+    },
+    "properties": {
+    "country":"Guinea",
+    "city":"Conakry",
+    "pop_in_k":"1 886",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.6,11.86 ]
+    },
+    "properties": {
+    "country":"Guinea-Bissau",
+    "city":"Bissau",
+    "pop_in_k":"473",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.16,6.8 ]
+    },
+    "properties": {
+    "country":"Guyana",
+    "city":"Georgetown",
+    "pop_in_k":"124",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.34,18.54 ]
+    },
+    "properties": {
+    "country":"Haiti",
+    "city":"Port-au-Prince",
+    "pop_in_k":"2 376",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45,41.9 ]
+    },
+    "properties": {
+    "country":"Holy See",
+    "city":"Vatican City",
+    "pop_in_k":"1",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.21,14.08 ]
+    },
+    "properties": {
+    "country":"Honduras",
+    "city":"Tegucigalpa",
+    "pop_in_k":"1 101",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.04,47.5 ]
+    },
+    "properties": {
+    "country":"Hungary",
+    "city":"Budapest",
+    "pop_in_k":"1 717",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -21.9,64.14 ]
+    },
+    "properties": {
+    "country":"Iceland",
+    "city":"Reykjavík",
+    "pop_in_k":"184",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.22,28.67 ]
+    },
+    "properties": {
+    "country":"India",
+    "city":"Delhi",
+    "pop_in_k":"24 953",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.84,-6.21 ]
+    },
+    "properties": {
+    "country":"Indonesia",
+    "city":"Jakarta",
+    "pop_in_k":"10 176",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.42,35.69 ]
+    },
+    "properties": {
+    "country":"Iran (Islamic Republic of)",
+    "city":"Tehran",
+    "pop_in_k":"8 353",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4,33.34 ]
+    },
+    "properties": {
+    "country":"Iraq",
+    "city":"Baghdad",
+    "pop_in_k":"6 483",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.25,53.33 ]
+    },
+    "properties": {
+    "country":"Ireland",
+    "city":"Dublin",
+    "pop_in_k":"1 155",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.48,54.15 ]
+    },
+    "properties": {
+    "country":"Isle of Man",
+    "city":"Douglas",
+    "pop_in_k":"29",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.22,31.77 ]
+    },
+    "properties": {
+    "country":"Israel",
+    "city":"Jerusalem",
+    "pop_in_k":"829",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.48,41.89 ]
+    },
+    "properties": {
+    "country":"Italy",
+    "city":"Roma (Rome)",
+    "pop_in_k":"3 697",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.79,18 ]
+    },
+    "properties": {
+    "country":"Jamaica",
+    "city":"Kingston",
+    "pop_in_k":"587",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.69,35.69 ]
+    },
+    "properties": {
+    "country":"Japan",
+    "city":"Tokyo",
+    "pop_in_k":"37 833",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.95,31.96 ]
+    },
+    "properties": {
+    "country":"Jordan",
+    "city":"Amman",
+    "pop_in_k":"1 148",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.45,51.18 ]
+    },
+    "properties": {
+    "country":"Kazakhstan",
+    "city":"Astana",
+    "pop_in_k":"741",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.82,-1.28 ]
+    },
+    "properties": {
+    "country":"Kenya",
+    "city":"Nairobi",
+    "pop_in_k":"3 768",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.98,1.33 ]
+    },
+    "properties": {
+    "country":"Kiribati",
+    "city":"Tarawa",
+    "pop_in_k":"46",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.98,29.35 ]
+    },
+    "properties": {
+    "country":"Kuwait",
+    "city":"Al Kuwayt (Kuwait City)",
+    "pop_in_k":"2 680",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.59,42.87 ]
+    },
+    "properties": {
+    "country":"Kyrgyzstan",
+    "city":"Bishkek",
+    "pop_in_k":"858",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.6,17.97 ]
+    },
+    "properties": {
+    "country":"Lao People's Democratic Republic",
+    "city":"Vientiane",
+    "pop_in_k":"946",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.11,56.95 ]
+    },
+    "properties": {
+    "country":"Latvia",
+    "city":"Riga",
+    "pop_in_k":"629",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.48,33.9 ]
+    },
+    "properties": {
+    "country":"Lebanon",
+    "city":"Bayrut (Beirut)",
+    "pop_in_k":"2 179",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.48,-29.32 ]
+    },
+    "properties": {
+    "country":"Lesotho",
+    "city":"Maseru",
+    "pop_in_k":"267",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.8,6.3 ]
+    },
+    "properties": {
+    "country":"Liberia",
+    "city":"Monrovia",
+    "pop_in_k":"1 224",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.19,32.88 ]
+    },
+    "properties": {
+    "country":"Libya",
+    "city":"Tarabulus (Tripoli)",
+    "pop_in_k":"1 126",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.52,47.14 ]
+    },
+    "properties": {
+    "country":"Liechtenstein",
+    "city":"Vaduz",
+    "pop_in_k":"5",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.28,54.69 ]
+    },
+    "properties": {
+    "country":"Lithuania",
+    "city":"Vilnius",
+    "pop_in_k":"519",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.13,49.61 ]
+    },
+    "properties": {
+    "country":"Luxembourg",
+    "city":"Luxembourg",
+    "pop_in_k":"107",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.54,-18.91 ]
+    },
+    "properties": {
+    "country":"Madagascar",
+    "city":"Antananarivo",
+    "pop_in_k":"2 487",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.79,-13.97 ]
+    },
+    "properties": {
+    "country":"Malawi",
+    "city":"Lilongwe",
+    "pop_in_k":"867",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.69,3.14 ]
+    },
+    "properties": {
+    "country":"Malaysia",
+    "city":"Kuala Lumpur",
+    "pop_in_k":"6 629",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.51,4.17 ]
+    },
+    "properties": {
+    "country":"Maldives",
+    "city":"Male",
+    "pop_in_k":"156",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8,12.65 ]
+    },
+    "properties": {
+    "country":"Mali",
+    "city":"Bamako",
+    "pop_in_k":"2 386",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.51,35.9 ]
+    },
+    "properties": {
+    "country":"Malta",
+    "city":"Valletta",
+    "pop_in_k":"197",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 171.38,7.09 ]
+    },
+    "properties": {
+    "country":"Marshall Islands",
+    "city":"Majuro",
+    "pop_in_k":"31",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.07,14.61 ]
+    },
+    "properties": {
+    "country":"Martinique",
+    "city":"Fort-de-France",
+    "pop_in_k":"86",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.98,18.09 ]
+    },
+    "properties": {
+    "country":"Mauritania",
+    "city":"Nouakchott",
+    "pop_in_k":"945",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.5,-20.16 ]
+    },
+    "properties": {
+    "country":"Mauritius",
+    "city":"Port Louis",
+    "pop_in_k":"135",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.23,-12.78 ]
+    },
+    "properties": {
+    "country":"Mayotte",
+    "city":"Mamoudzou",
+    "pop_in_k":"6",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.14,19.43 ]
+    },
+    "properties": {
+    "country":"Mexico",
+    "city":"Ciudad de México (Mexico City)",
+    "pop_in_k":"20 843",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.16,6.92 ]
+    },
+    "properties": {
+    "country":"Micronesia (Fed. States of)",
+    "city":"Palikir",
+    "pop_in_k":"7",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.42,43.73 ]
+    },
+    "properties": {
+    "country":"Monaco",
+    "city":"Monaco",
+    "pop_in_k":"38",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.88,47.91 ]
+    },
+    "properties": {
+    "country":"Mongolia",
+    "city":"Ulaanbaatar",
+    "pop_in_k":"1 334",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.26,42.44 ]
+    },
+    "properties": {
+    "country":"Montenegro",
+    "city":"Podgorica",
+    "pop_in_k":"165",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.21,16.79 ]
+    },
+    "properties": {
+    "country":"Montserrat",
+    "city":"Brades Estate",
+    "pop_in_k":"0",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.83,34.01 ]
+    },
+    "properties": {
+    "country":"Morocco",
+    "city":"Rabat",
+    "pop_in_k":"1 932",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.59,-25.97 ]
+    },
+    "properties": {
+    "country":"Mozambique",
+    "city":"Maputo",
+    "pop_in_k":"1 174",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.13,19.75 ]
+    },
+    "properties": {
+    "country":"Myanmar",
+    "city":"Nay Pyi Taw",
+    "pop_in_k":"1 016",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.08,-22.56 ]
+    },
+    "properties": {
+    "country":"Namibia",
+    "city":"Windhoek",
+    "pop_in_k":"356",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.91,-0.53 ]
+    },
+    "properties": {
+    "country":"Nauru",
+    "city":"Nauru",
+    "pop_in_k":"10",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.32,27.7 ]
+    },
+    "properties": {
+    "country":"Nepal",
+    "city":"Kathmandu",
+    "pop_in_k":"1 142",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.89,52.37 ]
+    },
+    "properties": {
+    "country":"Netherlands",
+    "city":"Amsterdam",
+    "pop_in_k":"1 084",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3,52.08 ]
+    },
+    "properties": {
+    "country":"Netherlands",
+    "city":"s-Gravenhage (The Hague)",
+    "pop_in_k":"646",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.46,-22.28 ]
+    },
+    "properties": {
+    "country":"New Caledonia",
+    "city":"Nouméa",
+    "pop_in_k":"181",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.78,-41.29 ]
+    },
+    "properties": {
+    "country":"New Zealand",
+    "city":"Wellington",
+    "pop_in_k":"380",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.25,12.13 ]
+    },
+    "properties": {
+    "country":"Nicaragua",
+    "city":"Managua",
+    "pop_in_k":"951",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.11,13.51 ]
+    },
+    "properties": {
+    "country":"Niger",
+    "city":"Niamey",
+    "pop_in_k":"1 058",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.49,9.06 ]
+    },
+    "properties": {
+    "country":"Nigeria",
+    "city":"Abuja",
+    "pop_in_k":"2 301",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.92,-19.06 ]
+    },
+    "properties": {
+    "country":"Niue",
+    "city":"Alofi",
+    "pop_in_k":"1",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.75,15.21 ]
+    },
+    "properties": {
+    "country":"Northern Mariana Islands",
+    "city":"Saipan",
+    "pop_in_k":"49",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.75,59.91 ]
+    },
+    "properties": {
+    "country":"Norway",
+    "city":"Oslo",
+    "pop_in_k":"970",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.59,23.61 ]
+    },
+    "properties": {
+    "country":"Oman",
+    "city":"Masqat (Muscat)",
+    "pop_in_k":"812",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.06,33.7 ]
+    },
+    "properties": {
+    "country":"Pakistan",
+    "city":"Islamabad",
+    "pop_in_k":"1 297",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.48,7.34 ]
+    },
+    "properties": {
+    "country":"Palau",
+    "city":"Koror",
+    "pop_in_k":"12",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.52,9 ]
+    },
+    "properties": {
+    "country":"Panama",
+    "city":"Ciudad de Panamá (Panama City)",
+    "pop_in_k":"1 638",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.18,-9.44 ]
+    },
+    "properties": {
+    "country":"Papua New Guinea",
+    "city":"Port Moresby",
+    "pop_in_k":"338",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.64,-25.3 ]
+    },
+    "properties": {
+    "country":"Paraguay",
+    "city":"Asunción",
+    "pop_in_k":"2 307",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03,-12.04 ]
+    },
+    "properties": {
+    "country":"Peru",
+    "city":"Lima",
+    "pop_in_k":"9 722",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.98,14.6 ]
+    },
+    "properties": {
+    "country":"Philippines",
+    "city":"Manila",
+    "pop_in_k":"12 764",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.01,52.23 ]
+    },
+    "properties": {
+    "country":"Poland",
+    "city":"Warszawa (Warsaw)",
+    "pop_in_k":"1 718",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.14,38.72 ]
+    },
+    "properties": {
+    "country":"Portugal",
+    "city":"Lisboa (Lisbon)",
+    "pop_in_k":"2 869",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.11,18.47 ]
+    },
+    "properties": {
+    "country":"Puerto Rico",
+    "city":"San Juan",
+    "pop_in_k":"2 466",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.52,25.27 ]
+    },
+    "properties": {
+    "country":"Qatar",
+    "city":"Ad-Dawhah (Doha)",
+    "pop_in_k":"699",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.98,37.57 ]
+    },
+    "properties": {
+    "country":"Republic of Korea",
+    "city":"Seoul",
+    "pop_in_k":"9 775",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.86,47.01 ]
+    },
+    "properties": {
+    "country":"Republic of Moldova",
+    "city":"Chişinău",
+    "pop_in_k":"721",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.45,-20.88 ]
+    },
+    "properties": {
+    "country":"Réunion",
+    "city":"Saint-Denis",
+    "pop_in_k":"144",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.1,44.43 ]
+    },
+    "properties": {
+    "country":"Romania",
+    "city":"Bucuresti (Bucharest)",
+    "pop_in_k":"1 872",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.62,55.75 ]
+    },
+    "properties": {
+    "country":"Russian Federation",
+    "city":"Moskva (Moscow)",
+    "pop_in_k":"12 063",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.06,-1.95 ]
+    },
+    "properties": {
+    "country":"Rwanda",
+    "city":"Kigali",
+    "pop_in_k":"1 223",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.72,-15.94 ]
+    },
+    "properties": {
+    "country":"Saint Helena",
+    "city":"Jamestown",
+    "pop_in_k":"1",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.73,17.29 ]
+    },
+    "properties": {
+    "country":"Saint Kitts and Nevis",
+    "city":"Basseterre",
+    "pop_in_k":"14",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.99,14.01 ]
+    },
+    "properties": {
+    "country":"Saint Lucia",
+    "city":"Castries",
+    "pop_in_k":"22",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.18,46.77 ]
+    },
+    "properties": {
+    "country":"Saint Pierre and Miquelon",
+    "city":"Saint-Pierre",
+    "pop_in_k":"5",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.22,13.16 ]
+    },
+    "properties": {
+    "country":"Saint Vincent and the Grenadines",
+    "city":"Kingstown",
+    "pop_in_k":"27",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -171.77,-13.83 ]
+    },
+    "properties": {
+    "country":"Samoa",
+    "city":"Apia",
+    "pop_in_k":"37",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45,43.93 ]
+    },
+    "properties": {
+    "country":"San Marino",
+    "city":"San Marino",
+    "pop_in_k":"4",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.73,0.34 ]
+    },
+    "properties": {
+    "country":"Sao Tome and Principe",
+    "city":"São Tomé",
+    "pop_in_k":"71",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.71,24.69 ]
+    },
+    "properties": {
+    "country":"Saudi Arabia",
+    "city":"Ar-Riyadh (Riyadh)",
+    "pop_in_k":"6 195",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.44,14.69 ]
+    },
+    "properties": {
+    "country":"Senegal",
+    "city":"Dakar",
+    "pop_in_k":"3 393",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.46,44.82 ]
+    },
+    "properties": {
+    "country":"Serbia",
+    "city":"Beograd (Belgrade)",
+    "pop_in_k":"1 181",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.45,-4.62 ]
+    },
+    "properties": {
+    "country":"Seychelles",
+    "city":"Victoria",
+    "pop_in_k":"26",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.23,8.48 ]
+    },
+    "properties": {
+    "country":"Sierra Leone",
+    "city":"Freetown",
+    "pop_in_k":"986",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.85,1.29 ]
+    },
+    "properties": {
+    "country":"Singapore",
+    "city":"Singapore",
+    "pop_in_k":"5 517",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.05,18.03 ]
+    },
+    "properties": {
+    "country":"Sint Maarten (Dutch part)",
+    "city":"Philipsburg",
+    "pop_in_k":"46",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.11,48.15 ]
+    },
+    "properties": {
+    "country":"Slovakia",
+    "city":"Bratislava",
+    "pop_in_k":"403",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.51,46.05 ]
+    },
+    "properties": {
+    "country":"Slovenia",
+    "city":"Ljubljana",
+    "pop_in_k":"279",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.95,-9.43 ]
+    },
+    "properties": {
+    "country":"Solomon Islands",
+    "city":"Honiara",
+    "pop_in_k":"73",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.34,2.04 ]
+    },
+    "properties": {
+    "country":"Somalia",
+    "city":"Muqdisho (Mogadishu)",
+    "pop_in_k":"2 014",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.21,-29.12 ]
+    },
+    "properties": {
+    "country":"South Africa",
+    "city":"Bloemfontein",
+    "pop_in_k":"496",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.42,-33.93 ]
+    },
+    "properties": {
+    "country":"South Africa",
+    "city":"Cape Town",
+    "pop_in_k":"3 624",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.19,-25.74 ]
+    },
+    "properties": {
+    "country":"South Africa",
+    "city":"Pretoria",
+    "pop_in_k":"1 991",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.58,4.85 ]
+    },
+    "properties": {
+    "country":"South Sudan",
+    "city":"Juba",
+    "pop_in_k":"307",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.7,40.42 ]
+    },
+    "properties": {
+    "country":"Spain",
+    "city":"Madrid",
+    "pop_in_k":"6 133",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.85,6.93 ]
+    },
+    "properties": {
+    "country":"Sri Lanka",
+    "city":"Colombo",
+    "pop_in_k":"704",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.91,6.9 ]
+    },
+    "properties": {
+    "country":"Sri Lanka",
+    "city":"Sri Jayewardenepura Kotte",
+    "pop_in_k":"128",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2,31.9 ]
+    },
+    "properties": {
+    "country":"State of Palestine",
+    "city":"Ramallah",
+    "pop_in_k":"83",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.53,15.55 ]
+    },
+    "properties": {
+    "country":"Sudan",
+    "city":"Al-Khartum (Khartoum)",
+    "pop_in_k":"5 000",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.17,5.87 ]
+    },
+    "properties": {
+    "country":"Suriname",
+    "city":"Paramaribo",
+    "pop_in_k":"234",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.13,-26.32 ]
+    },
+    "properties": {
+    "country":"Swaziland",
+    "city":"Mbabane",
+    "pop_in_k":"66",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.06,59.33 ]
+    },
+    "properties": {
+    "country":"Sweden",
+    "city":"Stockholm",
+    "pop_in_k":"1 464",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.45,46.95 ]
+    },
+    "properties": {
+    "country":"Switzerland",
+    "city":"Bern",
+    "pop_in_k":"358",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.31,33.51 ]
+    },
+    "properties": {
+    "country":"Syrian Arab Republic",
+    "city":"Dimashq (Damascus)",
+    "pop_in_k":"2 574",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.78,38.54 ]
+    },
+    "properties": {
+    "country":"Tajikistan",
+    "city":"Dushanbe",
+    "pop_in_k":"801",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.43,42 ]
+    },
+    "properties": {
+    "country":"TFYR Macedonia",
+    "city":"Skopje",
+    "pop_in_k":"501",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.53,13.72 ]
+    },
+    "properties": {
+    "country":"Thailand",
+    "city":"Krung Thep (Bangkok)",
+    "pop_in_k":"9 098",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.57,-8.56 ]
+    },
+    "properties": {
+    "country":"Timor-Leste",
+    "city":"Dili",
+    "pop_in_k":"228",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.21,6.14 ]
+    },
+    "properties": {
+    "country":"Togo",
+    "city":"Lomé",
+    "pop_in_k":"930",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -171.25,-9.38 ]
+    },
+    "properties": {
+    "country":"Tokelau",
+    "city":"Tokelau",
+    "pop_in_k":"…",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.2,-21.14 ]
+    },
+    "properties": {
+    "country":"Tonga",
+    "city":"Nuku'alofa",
+    "pop_in_k":"25",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.52,10.67 ]
+    },
+    "properties": {
+    "country":"Trinidad and Tobago",
+    "city":"Port of Spain",
+    "pop_in_k":"34",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.17,36.82 ]
+    },
+    "properties": {
+    "country":"Tunisia",
+    "city":"Tunis",
+    "pop_in_k":"1 978",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.85,39.92 ]
+    },
+    "properties": {
+    "country":"Turkey",
+    "city":"Ankara",
+    "pop_in_k":"4 644",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.38,37.95 ]
+    },
+    "properties": {
+    "country":"Turkmenistan",
+    "city":"Ashgabat",
+    "pop_in_k":"735",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.14,21.46 ]
+    },
+    "properties": {
+    "country":"Turks and Caicos Islands",
+    "city":"Cockburn Town",
+    "pop_in_k":"5",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.2,-8.52 ]
+    },
+    "properties": {
+    "country":"Tuvalu",
+    "city":"Funafuti",
+    "pop_in_k":"6",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.58,0.32 ]
+    },
+    "properties": {
+    "country":"Uganda",
+    "city":"Kampala",
+    "pop_in_k":"1 863",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.52,50.45 ]
+    },
+    "properties": {
+    "country":"Ukraine",
+    "city":"Kyiv (Kiev)",
+    "pop_in_k":"2 917",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.36,24.46 ]
+    },
+    "properties": {
+    "country":"United Arab Emirates",
+    "city":"Abu Zaby (Abu Dhabi)",
+    "pop_in_k":"1 114",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.13,51.51 ]
+    },
+    "properties": {
+    "country":"United Kingdom",
+    "city":"London",
+    "pop_in_k":"10 189",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.74,-6.17 ]
+    },
+    "properties": {
+    "country":"United Republic of Tanzania",
+    "city":"Dodoma",
+    "pop_in_k":"228",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04,38.9 ]
+    },
+    "properties": {
+    "country":"United States of America",
+    "city":"Washington, D.C.",
+    "pop_in_k":"4 896",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.93,18.34 ]
+    },
+    "properties": {
+    "country":"United States Virgin Islands",
+    "city":"Charlotte Amalie",
+    "pop_in_k":"52",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.17,-34.83 ]
+    },
+    "properties": {
+    "country":"Uruguay",
+    "city":"Montevideo",
+    "pop_in_k":"1 698",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.22,41.26 ]
+    },
+    "properties": {
+    "country":"Uzbekistan",
+    "city":"Tashkent",
+    "pop_in_k":"2 241",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.32,-17.73 ]
+    },
+    "properties": {
+    "country":"Vanuatu",
+    "city":"Port Vila",
+    "pop_in_k":"53",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.88,10.49 ]
+    },
+    "properties": {
+    "country":"Venezuela (Bolivarian Republic of)",
+    "city":"Caracas",
+    "pop_in_k":"2 912",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84,21.02 ]
+    },
+    "properties": {
+    "country":"Viet Nam",
+    "city":"Hà Noi",
+    "pop_in_k":"3 470",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.17,-13.28 ]
+    },
+    "properties": {
+    "country":"Wallis and Futuna Islands",
+    "city":"Matu-Utu",
+    "pop_in_k":"1",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.2,27.15 ]
+    },
+    "properties": {
+    "country":"Western Sahara",
+    "city":"El Aaiún",
+    "pop_in_k":"262",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.21,15.35 ]
+    },
+    "properties": {
+    "country":"Yemen",
+    "city":"Sana'a'",
+    "pop_in_k":"2 833",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.28,-15.41 ]
+    },
+    "properties": {
+    "country":"Zambia",
+    "city":"Lusaka",
+    "pop_in_k":"2 078",
+    "~":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.05,-17.83 ]
+    },
+    "properties": {
+    "country":"Zimbabwe",
+    "city":"Harare",
+    "pop_in_k":"1 495",
+    "~":""
+    }
+  }
+]
+}
