@@ -30,6 +30,7 @@
   font-size: 20px;
   color: white;
 }
+
 headerItem:hover{
   background-color: #CCCCCC;
 }
@@ -37,6 +38,12 @@ headerItem:hover{
 #headerBg a {
     color: white;
     text-decoration: none;
+    font-family:sans-serif;
+    padding: 13px;
+}
+
+#headerBg a:hover {
+    background-color: #CCCCCC;
 }
 
 .introBg {
@@ -72,6 +79,7 @@ headerItem:hover{
   padding: 15px; /* Some padding */
   border-radius: 10px; /* Rounded corners */
   font-size: 18px; /* Increase font size */
+  font-family:sans-serif;
 }
 
 #myBtn:hover {
@@ -87,7 +95,6 @@ headerItem:hover{
   color: white;
   font-size: 20px;
   font-family: sans-serif;
-
 }
 
 .mapBg {
@@ -126,13 +133,15 @@ headerItem:hover{
 }
 .mapTitle {
   font-size: 20px;
+  font-family:sans-serif;
   color: white;
   text-align:left;
   z-index:100;
-  margin: 30px
+  margin: 20px;
 }
 .mapInfo {
   font-size: 15px;
+  font-family:sans-serif;
   color: white;
   text-align:left;
   z-index:100;
@@ -140,6 +149,26 @@ headerItem:hover{
   text-indent:-2em;
   padding-left:2em;
 }
+
+.scroll {
+  width: 180px;
+  height: 60px;
+  padding: 10px;
+  margin:20px;
+  position
+  /* font-weight: 600; */
+  font-size: 15px;
+  border-radius: 5px;
+  font-family:sans-serif;
+}
+
+.scroll:hover {background-color: #ddd3e8}
+.scroll:active {
+  background-color: #ddd3e8;
+  box-shadow: 0 5px black;
+  transform: translateY(4px);
+}
+
 
 .map-overlay {
 font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
@@ -192,7 +221,7 @@ cursor: ew-resize;
 
 .plotContainer{
   width: 62%;
-  height: 650px;
+  height: 600px;
   /* padding: 50px; */
   background: #aa92b7;
   display: inline-block;

@@ -40,20 +40,25 @@
       <div id="mapContainer"></div>
       <!-- <div class="map-overlay"> -->
       <div class="maplegendContainer">
-        <div class="mapTitle">Title </br>
-          <label id="month"></label>
-          <input id="slider" type="range" min="0" max="11" step="1" value="0" />
-        </div>
-        <div class='map-overlay-inner'>
-          <div id='legend' class='legend'>
-            <div class='bar'></div>
-            <div>Time</div>
-          </div>
-        </div>
+        <div class="mapTitle">Immigrant to US, </br>1820s-2017 </div>
+
         <div class="mapInfo">Author: Yunhe Cui</div>
         <div class="mapInfo">Date: May 12, 2019</div>
         <div class="mapInfo">Data Source:<br/>Dept of Homeland Security</div>
+        <div class="mapInfo">
+          <label id="month"></label>
+          <input id="slider" type="range" min="0" max="11" step="1" value="0" />
+        </div>
         <div class="legend"></div>
+        <button class="scroll" id="enableScroll"> Click here to enable scoll on map</button>
+        <button class="scroll" id="disableScroll"> Click here to disable scoll on map</button>
+        <button class="scroll" id="resetMap"> Click here to reset map</button>
+        <div class='map-overlay-inner'>
+          <div id='legend' class='legend'>
+            <div class='bar'></div>
+            <div>number of immigrant</div>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -84,10 +89,6 @@
       </div>
       <div class="plotlegendContainer"></div>
     </div>
-
-
-
-
 
 
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js'></script>

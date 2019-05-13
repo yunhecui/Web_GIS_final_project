@@ -62,6 +62,22 @@ Captial.forEach(function(capital) {
   })
 })
 
+document.getElementById('enableScroll').addEventListener('click', function () {
+// Fly to a random location by offsetting new york city latlong
+map.scrollZoom.enable();
+});
+document.getElementById('disableScroll').addEventListener('click', function () {
+// Fly to a random location by offsetting new york city latlong
+map.scrollZoom.disable();
+});
+document.getElementById('resetMap').addEventListener('click', function () {
+// Fly to a random location by offsetting new york city latlong
+map.scrollZoom.disable();
+map.flyTo({
+  center: [150, 35],
+  zoom: 0.54,
+})
+});
 
 
 var divElement = document.getElementById('viz1557761578051');
