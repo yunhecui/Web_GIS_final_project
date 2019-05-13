@@ -101,9 +101,9 @@ headerItem:hover{
   /* text-align: center */
 }
 
-.legendContainer{
+.maplegendContainer{
   /* float:right; */
-  width: 300px;
+  width: 20%;
   height: 650px;
   /* padding: 900px; */
   background: black;
@@ -111,8 +111,9 @@ headerItem:hover{
   margin-top:25px;
   margin-bottom:25px;
 }
+
 .mapContainer{
-  width: 850px;
+  width: 62%;
   height: 650px;
   /* padding: 50px; */
   background: #aa92b7;
@@ -148,4 +149,27 @@ headerItem:hover{
   opacity: 0.65;
   display: block;
   margin-top: 10px;
+}
+
+.plotContainer{
+  width: 62%;
+  height: 650px;
+  /* padding: 50px; */
+  background: #aa92b7;
+  display: inline-block;
+  float:left;
+  margin-left:130px;
+  margin-top:25px;
+  margin-bottom:25px;
+  /* margin:50px; */
+}
+.plotlegendContainer{
+  /* float:right; */
+  width: 20%;
+  height: 662px;
+  /* padding: 900px; */
+  background: black;
+  display: inline-block;
+  margin-top:25px;
+  margin-bottom:25px;
 }
