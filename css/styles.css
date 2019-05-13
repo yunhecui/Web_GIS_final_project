@@ -112,7 +112,7 @@ headerItem:hover{
   margin-bottom:25px;
 }
 
-.mapContainer{
+#mapContainer{
   width: 62%;
   height: 650px;
   /* padding: 50px; */
@@ -140,6 +140,45 @@ headerItem:hover{
   text-indent:-2em;
   padding-left:2em;
 }
+
+.map-overlay {
+font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+position: absolute;
+width: 25%;
+top: 0;
+left: 0;
+padding: 10px;
+}
+
+.maplegendContainer .map-overlay-inner {
+background-color: #fff;
+box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+border-radius: 3px;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+.maplegendContainer h2 {
+line-height: 24px;
+display: block;
+margin: 0 0 10px;
+}
+
+.maplegendContainer .legend .bar {
+height: 10px;
+width: 100%;
+background: linear-gradient(to right, #ddd3e8, #621fad);
+}
+
+.maplegendContainer input {
+background-color: transparent;
+display: inline-block;
+width: 100%;
+position: relative;
+margin: 0;
+cursor: ew-resize;
+}
+
 
 
 .plotBg {
