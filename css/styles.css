@@ -3,36 +3,18 @@
   height: 83px;
   background-color:#57068c;
   border-color:white;
-  /* position:fixed; */
   z-index:9999;
-  /* margin-top:0px; */
 }
-.nyuLogo {
-  /* position: absolute; */
-  display: inline-block;
-  padding: 20px;
-  margin:0px;
-  text-align: center;
-  padding: 14px, 16px;
-  font-size: 20px;
-  color: white;
-}
-
 
 .headerItem {
-  /* position: absolute; */
-  display: inline;
-  padding: 10px 30px 8px 30px;
-  margin: 20px;
-  /* margin-top:0px; */
+
+  width:60px;
+  height:10px;
+  display: inline-block;
+  margin: 20px 60px 0px 60px;
   text-align: center;
-  /* padding: 14px, 16px; */
   font-size: 20px;
   color: white;
-}
-
-headerItem:hover{
-  background-color: #CCCCCC;
 }
 
 #headerBg a {
@@ -42,9 +24,6 @@ headerItem:hover{
     padding: 13px;
 }
 
-#headerBg a:hover {
-    background-color: #CCCCCC;
-}
 
 .introBg {
   width: 100%;
@@ -52,17 +31,19 @@ headerItem:hover{
   background: #57068c;
   opacity: 0.65;
   display: block;
+  z-index:2
 }
 
 
 .introContainer {
   padding: 60px;
-  padding-top: 100px;
+  padding-top: 150px;
   text-align: center;
   /* background: #57068c; */
   color: white;
   font-size: 100px;
   font-family: sans-serif;
+  z-index:3;
 }
 
 #myBtn {
@@ -115,8 +96,8 @@ headerItem:hover{
   /* padding: 900px; */
   background: black;
   display: inline-block;
-  margin-top:25px;
-  margin-bottom:25px;
+  margin-top:20px;
+  margin-bottom:15px;
 }
 
 #mapContainer{
@@ -127,8 +108,8 @@ headerItem:hover{
   display: inline-block;
   float:left;
   margin-left:130px;
-  margin-top:25px;
-  margin-bottom:25px;
+  margin-top:20px;
+  margin-bottom:15px;
   /* margin:50px; */
 }
 .mapTitle {
@@ -137,7 +118,7 @@ headerItem:hover{
   color: white;
   text-align:left;
   z-index:100;
-  margin: 20px;
+  margin: 30px;
 }
 .mapInfo {
   font-size: 15px;
@@ -220,24 +201,26 @@ cursor: ew-resize;
 }
 
 .plotContainer{
-  width: 62%;
+  width: 60.5%;
   height: 600px;
-  /* padding: 50px; */
-  background: #aa92b7;
+  padding-top:50px;
+  padding-left:20px;
+  /* padding: 20px; */
+  background: white;
   display: inline-block;
   float:left;
   margin-left:130px;
-  margin-top:25px;
-  margin-bottom:25px;
+  margin-top:30px;
+  margin-bottom:20px;
   /* margin:50px; */
 }
 .plotlegendContainer{
   /* float:right; */
   width: 20%;
-  height: 662px;
+  height: 650px;
   /* padding: 900px; */
   background: black;
   display: inline-block;
-  margin-top:25px;
-  margin-bottom:25px;
+  margin-top:30px;
+  margin-bottom:30px;
 }
