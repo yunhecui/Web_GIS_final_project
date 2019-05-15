@@ -32,22 +32,6 @@ map.scrollZoom.disable();
 map.addControl(new mapboxgl.NavigationControl());
 
 
-
-
-// filter:['==', ['number', ['get','time']],1820]
-
-document.getElementById('slider').addEventListener('input', function(e){
-  var range = parseInt(e.target.value);
-  var decade = range*10 + 1820;
-  // map.setFilter('immi-choro',['==',['number',['get','Decade']], decade]);
-
-  var time = decade + 's';
-
-
-  document.getElementById('active-year').innerText = time;
-
-})
-
 map.on('load', function(){
   map.addLayer({
     'id':'immi-choro',
@@ -62,7 +46,7 @@ map.on('load', function(){
       'fill-color':[
         'interpolate',
         ['linear'],
-        ['get','1930s'],
+        ['get','1820s'],
         0, '#F2F12D',
         500, '#EED322',
         750, '#E6B71E',
@@ -77,6 +61,36 @@ map.on('load', function(){
     },
   }, 'waterway-label');
 });
+
+// filter:['==', ['number', ['get','time']],1820]
+
+document.getElementById('slider').addEventListener('input', function(e){
+  var range = parseInt(e.target.value);
+  var decade = range*10 + 1820;
+  // map.setFilter('immi-choro',['==',['number',['get','Decade']], decade]);
+
+  var time = decade + 's';
+
+
+  document.getElementById('active-year').innerText = time;
+  map.setPaintProperty('immi-choro', 'fill-color',[
+    'interpolate',
+      ['linear'],
+      ['get', time],
+      0, '#F2F12D',
+      500, '#EED322',
+      750, '#E6B71E',
+      1000, '#DA9C20',
+      2500, '#CA8323',
+      5000, '#B86B25',
+      7500, '#A25626',
+      10000, '#8B4225',
+      25000, '#723122'
+  ])
+
+});
+
+
 
 
 Captial.forEach(function(capital) {
