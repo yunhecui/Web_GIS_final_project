@@ -54,16 +54,16 @@ map.on('load', function(){
     'type': 'fill',
     'source': {
       'type': 'vector',
-      'data': 'mapbox://yunhecui.bz57od2e'},
-    'source-layer' : 'immi_melt_selection-0yxkk7',
+      'url': 'mapbox://yunhecui.bf6vvkx1'},
+    'source-layer' : 'immi_final_shp-6e8pfg',
     'maxzoom': 5,
     'type': 'fill',
     'paint':{
       'fill-color':[
         'interpolate',
         ['linear'],
-        ['number',['get','Immi_num']],
-        0, '#CCCCCC',
+        ['get','1930s'],
+        0, '#F2F12D',
         500, '#EED322',
         750, '#E6B71E',
         1000, '#DA9C20',
@@ -75,7 +75,6 @@ map.on('load', function(){
       ],
       'fill-opacity': 0.75
     },
-    filter:['==',['number',['get','Decade']],1820]
   }, 'waterway-label');
 });
 
