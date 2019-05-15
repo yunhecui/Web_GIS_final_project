@@ -36,13 +36,14 @@
 
 
 .introContainer {
-  padding: 60px;
+  padding-left:12%;
+  width:80%;
   padding-top: 150px;
-  text-align: center;
-  /* background: #57068c; */
   color: white;
   font-size: 100px;
   font-family: sans-serif;
+  line-height: 40px;
+  /* margin: 100px; */
   z-index:3;
 }
 
@@ -70,12 +71,15 @@
 
 
 .mapDescription {
-  padding: 20px;
-  text-align: center;
-  text-indent: -2em;
+  height:auto;
+  width: 70%;
+  padding: 7.5%;
+  text-align: left;
   color: white;
-  font-size: 20px;
+  font-size: 30px;
   font-family: sans-serif;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .mapBg {
@@ -221,4 +225,19 @@ cursor: ew-resize;
   display: inline-block;
   margin-top:30px;
   margin-bottom:30px;
+}
+
+.plotLegend{
+  margin-top:18%;
+  margin-left: 2%;
+  padding-top:2%;
+  padding: 2%, 1%,2%, 2%;s
+  width:auto;
+  height: auto;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 18px;
+  color:white;
+
+
 }
