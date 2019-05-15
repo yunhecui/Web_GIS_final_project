@@ -31,6 +31,55 @@ map.scrollZoom.disable();
 // Add zoom and rotation controls to the map.
 map.addControl(new mapboxgl.NavigationControl());
 
+
+
+
+// filter:['==', ['number', ['get','time']],1820]
+
+document.getElementById('slider').addEventListener('input', function(e){
+  var range = parseInt(e.target.value);
+  var decade = range*10 + 1820;
+  // map.setFilter('immi-choro',['==',['number',['get','Decade']], decade]);
+
+  var time = decade + 's';
+
+
+  document.getElementById('active-year').innerText = time;
+
+})
+
+map.on('load', function(){
+  map.addLayer({
+    'id':'immi-choro',
+    'type': 'fill',
+    'source': {
+      'type': 'vector',
+      'data': 'mapbox://yunhecui.bz57od2e'},
+    'source-layer' : 'immi_melt_selection-0yxkk7',
+    'maxzoom': 5,
+    'type': 'fill',
+    'paint':{
+      'fill-color':[
+        'interpolate',
+        ['linear'],
+        ['number',['get','Immi_num']],
+        0, '#CCCCCC',
+        500, '#EED322',
+        750, '#E6B71E',
+        1000, '#DA9C20',
+        2500, '#CA8323',
+        5000, '#B86B25',
+        7500, '#A25626',
+        10000, '#8B4225',
+        25000, '#723122'
+      ],
+      'fill-opacity': 0.75
+    },
+    filter:['==',['number',['get','Decade']],1820]
+  }, 'waterway-label');
+});
+
+
 Captial.forEach(function(capital) {
   map.on('load', function(){
     map.addLayer({
@@ -60,7 +109,10 @@ Captial.forEach(function(capital) {
         }
     })
   })
-})
+});
+
+
+
 
 document.getElementById('enableScroll').addEventListener('click', function () {
 // Fly to a random location by offsetting new york city latlong
