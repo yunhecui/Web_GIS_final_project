@@ -121,7 +121,7 @@
   font-size: 20px;
   font-family:sans-serif;
   color: white;
-  text-align:center;
+  text-align:left;
   z-index:100;
   margin: 10%;
 }
@@ -131,17 +131,18 @@
   color: white;
   text-align:left;
   z-index:100;
-  margin: 0px 20px;
+  margin: 0px 25px;
   text-indent:-2em;
   padding-left:2em;
 }
 
-.scroll {
+.mapBtn {
   width: 100px;
   height: 60px;
   padding: 10px;
   margin:5px;
-  margin-left:20px;
+  margin-left:25px;
+  display: inline-block;
   /* position */
   /* font-weight: 600; */
   font-size: 15px;
@@ -149,14 +150,16 @@
   font-family:sans-serif;
 }
 
-.scroll:hover {background-color: #ddd3e8}
-.scroll:active {
+.mapBtn:hover {background-color: #ddd3e8}
+.mapBtn:active {
   background-color: #ddd3e8;
   box-shadow: 0 5px black;
   transform: translateY(4px);
 }
 
-
+/* #hideCap {
+  font-size:12px;
+} */
 .map-overlay {
 font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
 position: absolute;
@@ -172,6 +175,7 @@ box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
 border-radius: 3px;
 padding: 10px;
 margin-bottom: 10px;
+margin-top:20px;
 }
 
 .maplegendContainer h2 {
@@ -199,6 +203,8 @@ cursor: ew-resize;
   background-color:#CCCCCC;
   color:purple;
   width:65%;
+  margin-bottom: 10px;
+  margin-top:10px;
 }
 
 .plotBg {

@@ -22,7 +22,7 @@ var map = new mapboxgl.Map({
 container: 'mapContainer',
 style: 'mapbox://styles/mapbox/light-v10',
 center: [150, 35],
-zoom: 0.6,
+zoom: 0.55,
 });
 
 // disable map zoom using scroll by default
@@ -141,7 +141,7 @@ document.getElementById('resetMap').addEventListener('click', function () {
 map.scrollZoom.disable();
 map.flyTo({
   center: [150, 35],
-  zoom: 0.6,
+  zoom: 0.55,
 })
 });
 
