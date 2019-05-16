@@ -18,5 +18,6 @@ I will concentrate more on the responsive web development and give the map reade
 
 ## Contact: If there is anything that is not clear, please contact Yunhe Cui (yc3420@nyu.edu). I will be more than happy to explain.
 
-Reference: Mapbox time slider example (https://docs.mapbox.com/help/tutorials/show-changes-over-time/) and other mapboxgl instructions. 
+Reference: Mapbox time slider example (https://docs.mapbox.com/help/tutorials/show-changes-over-time/) and other mapboxgl instructions.   
 
+You can see the map here: https://yunhecui.github.io/Web_GIS_final_project/
