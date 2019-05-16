@@ -19,10 +19,10 @@ function topFunction() {
 //load the base map
 mapboxgl.accessToken = 'pk.eyJ1IjoieXVuaGVjdWkiLCJhIjoiY2p1NDhncHp3MGJwNTQ1bnd5aTEyODdxNCJ9.8XO2bpiop4ue0tLtzDbcig';
 var map = new mapboxgl.Map({
-container: 'mapContainer',
-style: 'mapbox://styles/mapbox/light-v10',
-center: [150, 35],
-zoom: 0.55,
+  container: 'mapContainer',
+  style: 'mapbox://styles/mapbox/light-v10',
+  center: [150, 35],
+  zoom: 0.55,
 });
 
 // disable map zoom using scroll by default
@@ -72,7 +72,7 @@ document.getElementById('slider').addEventListener('input', function(e){
   var decade = range*10 + 1820;
   var time = decade + 's';
 
-  document.getElementById('active-year').innerText = time;
+document.getElementById('active-year').innerText = time;
   map.setPaintProperty('immi-choro', 'fill-color',[
     'interpolate',
       ['linear'],
@@ -91,7 +91,6 @@ document.getElementById('slider').addEventListener('input', function(e){
       150000,'#6a07ab',
       200000,'#57068c',
   ])
-
 });
 
 //loadin the capital layer
