@@ -16,7 +16,7 @@ function topFunction() {
 }
 
 
-
+//load the base map
 mapboxgl.accessToken = 'pk.eyJ1IjoieXVuaGVjdWkiLCJhIjoiY2p1NDhncHp3MGJwNTQ1bnd5aTEyODdxNCJ9.8XO2bpiop4ue0tLtzDbcig';
 var map = new mapboxgl.Map({
 container: 'mapContainer',
@@ -25,13 +25,13 @@ center: [150, 35],
 zoom: 0.6,
 });
 
-// disable map zoom using scroll
+// disable map zoom using scroll by default
 map.scrollZoom.disable();
 
 // Add zoom and rotation controls to the map.
 map.addControl(new mapboxgl.NavigationControl());
 
-
+//load the initial choropleth map
 map.on('load', function(){
   map.addLayer({
     'id':'immi-choro',
@@ -66,15 +66,11 @@ map.on('load', function(){
   }, 'waterway-label');
 });
 
-// filter:['==', ['number', ['get','time']],1820]
-
+//get the time information from time slider, enable user interact
 document.getElementById('slider').addEventListener('input', function(e){
   var range = parseInt(e.target.value);
   var decade = range*10 + 1820;
-  // map.setFilter('immi-choro',['==',['number',['get','Decade']], decade]);
-
   var time = decade + 's';
-
 
   document.getElementById('active-year').innerText = time;
   map.setPaintProperty('immi-choro', 'fill-color',[
@@ -98,9 +94,7 @@ document.getElementById('slider').addEventListener('input', function(e){
 
 });
 
-
-
-
+//loadin the capital layer
 Captial.forEach(function(capital) {
   map.on('load', function(){
     map.addLayer({
@@ -134,17 +128,16 @@ Captial.forEach(function(capital) {
 
 
 
-
+//enable scroll
 document.getElementById('enableScroll').addEventListener('click', function () {
-// Fly to a random location by offsetting new york city latlong
 map.scrollZoom.enable();
 });
+//disable scroll
 document.getElementById('disableScroll').addEventListener('click', function () {
-// Fly to a random location by offsetting new york city latlong
 map.scrollZoom.disable();
 });
 document.getElementById('resetMap').addEventListener('click', function () {
-// Fly to a random location by offsetting new york city latlong
+// go back to the initial position and zoom
 map.scrollZoom.disable();
 map.flyTo({
   center: [150, 35],
@@ -152,7 +145,7 @@ map.flyTo({
 })
 });
 
-
+//tableau chart loading
 var divElement = document.getElementById('viz1557761578051');
 var vizElement = divElement.getElementsByTagName('object')[0];
 vizElement.style.width='100%';vizElement.style.height='100%';

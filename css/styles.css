@@ -39,12 +39,13 @@
   /* padding-left:12%; */
   width:80%;
   text-align:center;
-  margin:auto;
+  margin-left:auto;
+  margin-right:auto;
   padding-top: 150px;
   color: white;
   font-size: 100px;
   font-family: sans-serif;
-  line-height: 40px;
+  line-height: 100%;
   /* margin: 100px; */
   z-index:3;
 }
@@ -60,8 +61,8 @@
   background-color: #57068c; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 15px; /* Some padding */
-  border-radius: 10px; /* Rounded corners */
+  /* padding: 15px; /* Some padding */ */
+  /* border-radius: 10px; /* Rounded corners */ */
   font-size: 18px; /* Increase font size */
   font-family:sans-serif;
 }
@@ -74,12 +75,13 @@
 
 .mapDescription {
   height:auto;
-  width: 70%;
-  padding: 7.5%;
-  text-align: center;
+  width: 80%;
+  margin-top: 5%;
+  text-align: left;
   color: white;
-  font-size: 30px;
+  font-size: 25px;
   font-family: sans-serif;
+  padding-left:20%;
   margin-left:auto;
   margin-right:auto;
 }
@@ -92,14 +94,11 @@
   border-color:white;
   opacity: 0.65;
   display: block;
-  /* text-align: center */
 }
 
 .maplegendContainer{
-  /* float:right; */
   width: 20%;
   height: 650px;
-  /* padding: 900px; */
   background: black;
   display: inline-block;
   margin-top:20px;
@@ -138,11 +137,12 @@
 }
 
 .scroll {
-  width: 180px;
+  width: 100px;
   height: 60px;
   padding: 10px;
-  margin:20px;
-  position
+  margin:5px;
+  margin-left:20px;
+  /* position */
   /* font-weight: 600; */
   font-size: 15px;
   border-radius: 5px;

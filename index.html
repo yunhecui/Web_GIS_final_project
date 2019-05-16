@@ -28,10 +28,11 @@
     <div class="introBg">
       <a name="intro"></a>
       <div class="introContainer">Immigrant to USA</div>
-      <div class="mapDescription">In absolute numnbers, the US has a larger immigrant
-        population than any other country, with 47 million immigrants as of 2015
-        (19.1% of worldwide immigrant and 14.4% of the whole US population.)
-      </br></br>This map shows the immigrant number change from 1820 to 2017 in a 10 year period (except 2010-2017). </div>
+      <div class="mapDescription">In absolute numbers, the US has a larger immigrant population </br>
+        than any other country, with 47 million immigrants as of 2015 </br>
+        (this is 19.1% of worldwide immigrant and 14.4% of the whole US population.)</br>
+      </br>This map shows the immigrant number change from 1820 to 2017 in a
+    </br>10 year period (except 2010-2017). </div>
 
     </div>
 
@@ -43,19 +44,22 @@
       <!-- <div class="map-overlay"> -->
       <div class="maplegendContainer">
         <div class="mapTitle">Immigrant to US, </br>1820s-2017 </div>
-
         <div class="mapInfo">Author: Yunhe Cui</div>
         <div class="mapInfo">Date: May 12, 2019</div>
         <div class="mapInfo">Data Source:<br/>Dept of Homeland Security</div>
+        <!-- time slider -->
         <div class="mapInfo" id='sliderBar'>
           <label id="month"></label>
           <h3>Time: <label id='active-year'>1820s</label></h3>
           <input id="slider" type="range" min="0" max="19" step="1" value="0"color=white />
         </div>
-        <div class="legend"></div>
-        <button class="scroll" id="enableScroll"> Click here to enable scoll on map</button>
-        <button class="scroll" id="disableScroll"> Click here to disable scoll on map</button>
-        <button class="scroll" id="resetMap"> Click here to reset map</button>
+
+        <!-- <div class="legend"></div> -->
+        <!-- buttons -->
+        <button class="scroll" id="enableScroll">enable scoll</button>
+        <button class="scroll" id="disableScroll">disable scoll</button>
+        <button class="scroll" id="resetMap"> reset map</button>
+        <!-- legend bar -->
         <div class='map-overlay-inner'>
           <div id='legend' class='legend'>
             <div class='bar'></div>
@@ -65,6 +69,7 @@
       </div>
     </div>
 
+    <!-- insert bar chart with tableau-->
     <div class="plotBg">
       <a name="plot"></a>
       <div class="plotContainer">
@@ -99,7 +104,7 @@
       </div>
     </div>
 
-
+    <!-- load the javascripts files from js folder -->
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js'></script>
       <script
           src="https://code.jquery.com/jquery-3.3.1.min.js"
