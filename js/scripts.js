@@ -129,19 +129,19 @@ Captial.forEach(function(capital) {
 
 //enable scroll
 document.getElementById('enableScroll').addEventListener('click', function () {
-map.scrollZoom.enable();
+  map.scrollZoom.enable();
 });
 //disable scroll
 document.getElementById('disableScroll').addEventListener('click', function () {
-map.scrollZoom.disable();
+  map.scrollZoom.disable();
 });
 document.getElementById('resetMap').addEventListener('click', function () {
 // go back to the initial position and zoom
-map.scrollZoom.disable();
-map.flyTo({
-  center: [150, 35],
-  zoom: 0.55,
-})
+  map.scrollZoom.disable();
+  map.flyTo({
+    center: [150, 35],
+    zoom: 0.55,
+  });
 });
 
 
