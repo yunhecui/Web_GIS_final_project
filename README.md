@@ -12,7 +12,10 @@ This is an individual course project done by Yunhe Cui with instruction from Chr
   
 ## Tableau chart
 - I sum up the immigrant number for different years and draw the bar chart with tableau public. The original link is https://public.tableau.com/views/immi/Sheet1?:embed=y&:display_count=yes&:origin=viz_share_link  
-  
+
+## Improvement (work IP)
+add legend label; add click pop-up for capitals; add US colored layer
+
 ## Future work:
 I will concentrate more on the responsive web development and give the map readers a better experience when using different mobile devices.
 
